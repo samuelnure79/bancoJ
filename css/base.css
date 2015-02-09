@@ -42,14 +42,20 @@
 		
 /* #Basic Styles
 ================================================== */
-	body { 
-		background: url(../images/bg.jpg) #10a5d3;
+	.body-login { 
+		background: url(../images/bg.png) #10a5d3;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444; 
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: none;
  }
-	
+	body { 
+		background: url(../images/bg.png) #10a5d3;
+		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		color: #444; 
+		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+		-webkit-text-size-adjust: none;
+ }
 
 /* #Typography
 ================================================== */
